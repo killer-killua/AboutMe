@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Justice</string>
+    <string name="nickname_txt">20sp</string>
+    <string name="bios_txt">
+        Hello my name is Justice T. I am a sophomore
+        at CSN and I will soon graduate with an Associates
+        of Applied Science. My time here my have been brief,
+        but I have enjoyed the classes here that will
+        hopefully help get me a job.
+        My favorite pass time is playing videogames and god is
+        this the year where too many dope ones are coming out
+        gonna be broke by 2020.
+        i have two dogs little yorkie terriers who are really
+        cute and give unconditional love.
+        Other than that I'm just a guy trynna to find a purpose
+        in this purposeless world, don't know where my journey
+        will take me next but it can only get better from here.
+    </string>
 </resources>
