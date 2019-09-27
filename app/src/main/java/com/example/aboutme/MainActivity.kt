@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         nicknameTextView.text = editText.text
         edittext.visibility = View.GONE
         view.visibility = View.GONE
+        nicknameTextView.visibility = View.VISIBLE
 
     }
 }
