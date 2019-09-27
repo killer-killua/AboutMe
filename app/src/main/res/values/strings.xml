@@ -4,17 +4,19 @@
     <string name="nickname_txt">20sp</string>
     <string name="bios_txt">
         Hello my name is Justice T. I am a sophomore
-        at CSN and I will soon graduate with an Associates
-        of Applied Science. My time here my have been brief,
-        but I have enjoyed the classes here that will
-        hopefully help get me a job.
-        My favorite pass time is playing videogames and god is
-        this the year where too many dope ones are coming out
-        gonna be broke by 2020.
-        i have two dogs little yorkie terriers who are really
-        cute and give unconditional love.
-        Other than that I'm just a guy trynna to find a purpose
-        in this purposeless world, don't know where my journey
-        will take me next but it can only get better from here.
+        \n\nat CSN and I will soon graduate with an Associates
+        \n\nof Applied Science. My time here my have been brief,
+        \n\nbut I have enjoyed the classes here that will
+        \n\nhopefully help get me a job.
+        \n\nMy favorite pass time is playing videogames and god is
+        \n\nthis the year where too many dope ones are coming out
+        \n\ngonna be broke by 2020.
+        \n\nI have two dogs little yorkie terriers who are really
+        \n\ncute and give unconditional love.
+        \n\nOther than that I'm just a guy trynna to find a purpose
+        \n\nin this purposeless world, don't know where my journey
+        \n\nwill take me next but it can only get better from here.
+        \n\n
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
 </resources>

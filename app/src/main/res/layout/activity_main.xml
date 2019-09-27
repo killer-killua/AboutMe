@@ -18,13 +18,21 @@
         android:textAlignment="center" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/nickname_txt"
+        style="@style/NameStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="@string/nickname_txt" />
+        android:hint="@string/what_is_your_nickname"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button" />
 
     <ScrollView
         android:id="@+id/bio_scroll"
