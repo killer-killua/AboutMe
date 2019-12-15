@@ -2,7 +2,7 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Justice</string>
     <string name="nickname_txt">20sp</string>
-    <string name="bios_txt">
+    <string name="bio">
         Hello my name is Justice T. I am a sophomore
         \n\nat CSN and I will soon graduate with an Associates
         \n\nof Applied Science. My time here my have been brief,
@@ -16,7 +16,8 @@
         \n\nOther than that I'm just a guy trynna to find a purpose
         \n\nin this purposeless world, don't know where my journey
         \n\nwill take me next but it can only get better from here.
-        \n\n</string>
+        \n\n
+    </string>
     <string name="what_is_your_nickname">What is your nickname?</string>
     <string name="Done">done</string>
 </resources>

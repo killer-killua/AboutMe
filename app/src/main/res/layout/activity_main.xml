@@ -23,7 +23,7 @@
         style="@style/NameStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@={myName.name}"
+        android:text="@string/name"
         android:textAlignment="center" />
 
     <EditText
@@ -52,7 +52,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="@={myName.nickname}"
+        android:text="@string/nickname_txt"
         android:visibility="gone" />
 
     <ScrollView
@@ -62,12 +62,12 @@
 
 
         <TextView
-            android:id="@+id/bios_txtview"
+            android:id="@+id/bios_txt"
             style="@style/NameStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:lineSpacingMultiplier="@dimen/line_space"
-            android:text="@string/bios_txt"
+            android:text="@string/bio"
             android:textAlignment="center" />
     </ScrollView>
 
